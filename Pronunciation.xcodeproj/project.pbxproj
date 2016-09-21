@@ -13,6 +13,8 @@
 		3032830C1D928D33004302E6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3032830A1D928D33004302E6 /* LaunchScreen.storyboard */; };
 		303283171D928E50004302E6 /* Menu.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 303283161D928E50004302E6 /* Menu.storyboard */; };
 		3032831B1D928E87004302E6 /* MenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3032831A1D928E87004302E6 /* MenuViewController.m */; };
+		3032831D1D9291F5004302E6 /* Chart.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3032831C1D9291F5004302E6 /* Chart.storyboard */; };
+		303283201D929227004302E6 /* ChartViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3032831F1D929227004302E6 /* ChartViewController.m */; };
 		54E43E5D6DC82574D8637CC6 /* libPods-Pronunciation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 699F3C442818CD437C2C433A /* libPods-Pronunciation.a */; };
 /* End PBXBuildFile section */
 
@@ -28,6 +30,9 @@
 		303283161D928E50004302E6 /* Menu.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Menu.storyboard; path = UI/Menu.storyboard; sourceTree = "<group>"; };
 		303283191D928E87004302E6 /* MenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MenuViewController.h; path = Controller/MenuViewController.h; sourceTree = "<group>"; };
 		3032831A1D928E87004302E6 /* MenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MenuViewController.m; path = Controller/MenuViewController.m; sourceTree = "<group>"; };
+		3032831C1D9291F5004302E6 /* Chart.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Chart.storyboard; path = UI/Chart.storyboard; sourceTree = "<group>"; };
+		3032831E1D929227004302E6 /* ChartViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ChartViewController.h; path = Controller/ChartViewController.h; sourceTree = "<group>"; };
+		3032831F1D929227004302E6 /* ChartViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ChartViewController.m; path = Controller/ChartViewController.m; sourceTree = "<group>"; };
 		699F3C442818CD437C2C433A /* libPods-Pronunciation.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Pronunciation.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C36E8C4B4783BD2D48D080BD /* Pods-Pronunciation.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Pronunciation.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Pronunciation/Pods-Pronunciation.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -89,6 +94,7 @@
 			isa = PBXGroup;
 			children = (
 				303283161D928E50004302E6 /* Menu.storyboard */,
+				3032831C1D9291F5004302E6 /* Chart.storyboard */,
 			);
 			name = UI;
 			sourceTree = "<group>";
@@ -98,6 +104,8 @@
 			children = (
 				303283191D928E87004302E6 /* MenuViewController.h */,
 				3032831A1D928E87004302E6 /* MenuViewController.m */,
+				3032831E1D929227004302E6 /* ChartViewController.h */,
+				3032831F1D929227004302E6 /* ChartViewController.m */,
 			);
 			name = Controller;
 			sourceTree = "<group>";
@@ -182,6 +190,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3032830C1D928D33004302E6 /* LaunchScreen.storyboard in Resources */,
+				3032831D1D9291F5004302E6 /* Chart.storyboard in Resources */,
 				303283091D928D33004302E6 /* Assets.xcassets in Resources */,
 				303283171D928E50004302E6 /* Menu.storyboard in Resources */,
 			);
@@ -243,6 +252,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				303283011D928D33004302E6 /* AppDelegate.m in Sources */,
+				303283201D929227004302E6 /* ChartViewController.m in Sources */,
 				303282FE1D928D33004302E6 /* main.m in Sources */,
 				3032831B1D928E87004302E6 /* MenuViewController.m in Sources */,
 			);
