@@ -17,12 +17,47 @@
                     <view key="view" contentMode="scaleToFill" id="gO2-XB-KFC">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" red="0.2600509117" green="1" blue="0.82415493500000003" alpha="1" colorSpace="calibratedRGB"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bdI-lf-iFm">
+                                <frame key="frameInset" minX="41" minY="63" width="293" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Chart"/>
+                                <connections>
+                                    <action selector="btChart:" destination="Vqx-cX-eSi" eventType="touchUpInside" id="vNZ-tS-iFn"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zO7-qf-HqQ">
+                                <frame key="frameInset" minX="41" minY="122" width="306" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Practice"/>
+                                <connections>
+                                    <action selector="btPractice:" destination="Vqx-cX-eSi" eventType="touchUpInside" id="WNK-Og-gl5"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Flk-ZF-GnP">
+                                <frame key="frameInset" minX="34" minY="194" width="300" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Quiz"/>
+                                <connections>
+                                    <action selector="btQuiz:" destination="Vqx-cX-eSi" eventType="touchUpInside" id="hG3-oU-EUN"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aeJ-lq-L42">
+                                <frame key="frameInset" minX="41" minY="264" width="300" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="More"/>
+                                <connections>
+                                    <action selector="btMore:" destination="Vqx-cX-eSi" eventType="touchUpInside" id="czJ-n1-gO7"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" red="0.77925077338143223" green="1" blue="0.94710358113066306" alpha="1" colorSpace="calibratedRGB"/>
                     </view>
+                    <navigationItem key="navigationItem" id="K7m-Ll-wtf"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="wVZ-re-yHP" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-263" y="-146"/>
+            <point key="canvasLocation" x="676" y="-146.17691154422789"/>
         </scene>
     </scenes>
 </document>
