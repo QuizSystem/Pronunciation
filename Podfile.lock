@@ -1,0 +1,15 @@
+PODS:
+  - iOS-Slide-Menu (1.5)
+  - TPKeyboardAvoiding (1.3)
+
+DEPENDENCIES:
+  - iOS-Slide-Menu
+  - TPKeyboardAvoiding
+
+SPEC CHECKSUMS:
+  iOS-Slide-Menu: 40b0cbd8916c42afc755f0869793cd09e7a32102
+  TPKeyboardAvoiding: a5138f318c06fb3e151f886e18ce4a72695d9cbe
+
+PODFILE CHECKSUM: 5a20a6b6f6707f484250f73d28bbf1502b618eb1
+
+COCOAPODS: 1.0.1
