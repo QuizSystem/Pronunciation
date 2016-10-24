@@ -15,6 +15,50 @@
 		3032831B1D928E87004302E6 /* MenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3032831A1D928E87004302E6 /* MenuViewController.m */; };
 		3032831D1D9291F5004302E6 /* Chart.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3032831C1D9291F5004302E6 /* Chart.storyboard */; };
 		303283201D929227004302E6 /* ChartViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3032831F1D929227004302E6 /* ChartViewController.m */; };
+		3058F4791DAF7E67003BFAFF /* b.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4611DAF7E67003BFAFF /* b.mp3 */; };
+		3058F47A1DAF7E67003BFAFF /* d.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4621DAF7E67003BFAFF /* d.mp3 */; };
+		3058F47B1DAF7E67003BFAFF /* ð.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4631DAF7E67003BFAFF /* ð.mp3 */; };
+		3058F47C1DAF7E67003BFAFF /* dʒ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4641DAF7E67003BFAFF /* dʒ.mp3 */; };
+		3058F47D1DAF7E67003BFAFF /* f.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4651DAF7E67003BFAFF /* f.mp3 */; };
+		3058F47E1DAF7E67003BFAFF /* g.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4661DAF7E67003BFAFF /* g.mp3 */; };
+		3058F47F1DAF7E67003BFAFF /* h.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4671DAF7E67003BFAFF /* h.mp3 */; };
+		3058F4801DAF7E67003BFAFF /* j.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4681DAF7E67003BFAFF /* j.mp3 */; };
+		3058F4811DAF7E67003BFAFF /* k.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4691DAF7E67003BFAFF /* k.mp3 */; };
+		3058F4821DAF7E67003BFAFF /* l.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F46A1DAF7E67003BFAFF /* l.mp3 */; };
+		3058F4831DAF7E67003BFAFF /* m.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F46B1DAF7E67003BFAFF /* m.mp3 */; };
+		3058F4841DAF7E67003BFAFF /* n.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F46C1DAF7E67003BFAFF /* n.mp3 */; };
+		3058F4851DAF7E67003BFAFF /* ŋ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F46D1DAF7E67003BFAFF /* ŋ.mp3 */; };
+		3058F4861DAF7E67003BFAFF /* p.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F46E1DAF7E67003BFAFF /* p.mp3 */; };
+		3058F4871DAF7E67003BFAFF /* r.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F46F1DAF7E67003BFAFF /* r.mp3 */; };
+		3058F4881DAF7E67003BFAFF /* s.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4701DAF7E67003BFAFF /* s.mp3 */; };
+		3058F4891DAF7E67003BFAFF /* ʃ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4711DAF7E67003BFAFF /* ʃ.mp3 */; };
+		3058F48A1DAF7E67003BFAFF /* t.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4721DAF7E67003BFAFF /* t.mp3 */; };
+		3058F48B1DAF7E67003BFAFF /* tʃ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4731DAF7E67003BFAFF /* tʃ.mp3 */; };
+		3058F48C1DAF7E67003BFAFF /* v.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4741DAF7E67003BFAFF /* v.mp3 */; };
+		3058F48D1DAF7E67003BFAFF /* w.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4751DAF7E67003BFAFF /* w.mp3 */; };
+		3058F48E1DAF7E67003BFAFF /* z.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4761DAF7E67003BFAFF /* z.mp3 */; };
+		3058F48F1DAF7E67003BFAFF /* ʒ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4771DAF7E67003BFAFF /* ʒ.mp3 */; };
+		3058F4901DAF7E67003BFAFF /* θ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4781DAF7E67003BFAFF /* θ.mp3 */; };
+		3058F4991DAF7E73003BFAFF /* aɪ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4911DAF7E73003BFAFF /* aɪ.mp3 */; };
+		3058F49A1DAF7E73003BFAFF /* aʊ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4921DAF7E73003BFAFF /* aʊ.mp3 */; };
+		3058F49B1DAF7E73003BFAFF /* eə.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4931DAF7E73003BFAFF /* eə.mp3 */; };
+		3058F49C1DAF7E73003BFAFF /* eɪ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4941DAF7E73003BFAFF /* eɪ.mp3 */; };
+		3058F49D1DAF7E73003BFAFF /* əʊ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4951DAF7E73003BFAFF /* əʊ.mp3 */; };
+		3058F49E1DAF7E73003BFAFF /* ɪə.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4961DAF7E73003BFAFF /* ɪə.mp3 */; };
+		3058F49F1DAF7E73003BFAFF /* ɔɪ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4971DAF7E73003BFAFF /* ɔɪ.mp3 */; };
+		3058F4A01DAF7E73003BFAFF /* ʊə.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4981DAF7E73003BFAFF /* ʊə.mp3 */; };
+		3058F4AD1DAF7E83003BFAFF /* æ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4A11DAF7E83003BFAFF /* æ.mp3 */; };
+		3058F4AE1DAF7E83003BFAFF /* ɑː.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4A21DAF7E83003BFAFF /* ɑː.mp3 */; };
+		3058F4AF1DAF7E83003BFAFF /* ɒ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4A31DAF7E83003BFAFF /* ɒ.mp3 */; };
+		3058F4B01DAF7E83003BFAFF /* e.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4A41DAF7E83003BFAFF /* e.mp3 */; };
+		3058F4B11DAF7E83003BFAFF /* ə.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4A51DAF7E83003BFAFF /* ə.mp3 */; };
+		3058F4B21DAF7E83003BFAFF /* ɜː.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4A61DAF7E83003BFAFF /* ɜː.mp3 */; };
+		3058F4B31DAF7E83003BFAFF /* iː.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4A71DAF7E83003BFAFF /* iː.mp3 */; };
+		3058F4B41DAF7E83003BFAFF /* ɪ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4A81DAF7E83003BFAFF /* ɪ.mp3 */; };
+		3058F4B51DAF7E83003BFAFF /* ɔː.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4A91DAF7E83003BFAFF /* ɔː.mp3 */; };
+		3058F4B61DAF7E83003BFAFF /* uː.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4AA1DAF7E83003BFAFF /* uː.mp3 */; };
+		3058F4B71DAF7E83003BFAFF /* ʊ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4AB1DAF7E83003BFAFF /* ʊ.mp3 */; };
+		3058F4B81DAF7E83003BFAFF /* ʌ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3058F4AC1DAF7E83003BFAFF /* ʌ.mp3 */; };
 		54E43E5D6DC82574D8637CC6 /* libPods-Pronunciation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 699F3C442818CD437C2C433A /* libPods-Pronunciation.a */; };
 /* End PBXBuildFile section */
 
@@ -33,6 +77,50 @@
 		3032831C1D9291F5004302E6 /* Chart.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Chart.storyboard; path = UI/Chart.storyboard; sourceTree = "<group>"; };
 		3032831E1D929227004302E6 /* ChartViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ChartViewController.h; path = Controller/ChartViewController.h; sourceTree = "<group>"; };
 		3032831F1D929227004302E6 /* ChartViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ChartViewController.m; path = Controller/ChartViewController.m; sourceTree = "<group>"; };
+		3058F4611DAF7E67003BFAFF /* b.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = b.mp3; path = Resource/Audio/Consonants/b.mp3; sourceTree = "<group>"; };
+		3058F4621DAF7E67003BFAFF /* d.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = d.mp3; path = Resource/Audio/Consonants/d.mp3; sourceTree = "<group>"; };
+		3058F4631DAF7E67003BFAFF /* ð.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ð.mp3"; path = "Resource/Audio/Consonants/ð.mp3"; sourceTree = "<group>"; };
+		3058F4641DAF7E67003BFAFF /* dʒ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "dʒ.mp3"; path = "Resource/Audio/Consonants/dʒ.mp3"; sourceTree = "<group>"; };
+		3058F4651DAF7E67003BFAFF /* f.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = f.mp3; path = Resource/Audio/Consonants/f.mp3; sourceTree = "<group>"; };
+		3058F4661DAF7E67003BFAFF /* g.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = g.mp3; path = Resource/Audio/Consonants/g.mp3; sourceTree = "<group>"; };
+		3058F4671DAF7E67003BFAFF /* h.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = h.mp3; path = Resource/Audio/Consonants/h.mp3; sourceTree = "<group>"; };
+		3058F4681DAF7E67003BFAFF /* j.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = j.mp3; path = Resource/Audio/Consonants/j.mp3; sourceTree = "<group>"; };
+		3058F4691DAF7E67003BFAFF /* k.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = k.mp3; path = Resource/Audio/Consonants/k.mp3; sourceTree = "<group>"; };
+		3058F46A1DAF7E67003BFAFF /* l.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = l.mp3; path = Resource/Audio/Consonants/l.mp3; sourceTree = "<group>"; };
+		3058F46B1DAF7E67003BFAFF /* m.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = m.mp3; path = Resource/Audio/Consonants/m.mp3; sourceTree = "<group>"; };
+		3058F46C1DAF7E67003BFAFF /* n.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = n.mp3; path = Resource/Audio/Consonants/n.mp3; sourceTree = "<group>"; };
+		3058F46D1DAF7E67003BFAFF /* ŋ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ŋ.mp3"; path = "Resource/Audio/Consonants/ŋ.mp3"; sourceTree = "<group>"; };
+		3058F46E1DAF7E67003BFAFF /* p.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = p.mp3; path = Resource/Audio/Consonants/p.mp3; sourceTree = "<group>"; };
+		3058F46F1DAF7E67003BFAFF /* r.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = r.mp3; path = Resource/Audio/Consonants/r.mp3; sourceTree = "<group>"; };
+		3058F4701DAF7E67003BFAFF /* s.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = s.mp3; path = Resource/Audio/Consonants/s.mp3; sourceTree = "<group>"; };
+		3058F4711DAF7E67003BFAFF /* ʃ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ʃ.mp3"; path = "Resource/Audio/Consonants/ʃ.mp3"; sourceTree = "<group>"; };
+		3058F4721DAF7E67003BFAFF /* t.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = t.mp3; path = Resource/Audio/Consonants/t.mp3; sourceTree = "<group>"; };
+		3058F4731DAF7E67003BFAFF /* tʃ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "tʃ.mp3"; path = "Resource/Audio/Consonants/tʃ.mp3"; sourceTree = "<group>"; };
+		3058F4741DAF7E67003BFAFF /* v.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = v.mp3; path = Resource/Audio/Consonants/v.mp3; sourceTree = "<group>"; };
+		3058F4751DAF7E67003BFAFF /* w.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = w.mp3; path = Resource/Audio/Consonants/w.mp3; sourceTree = "<group>"; };
+		3058F4761DAF7E67003BFAFF /* z.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = z.mp3; path = Resource/Audio/Consonants/z.mp3; sourceTree = "<group>"; };
+		3058F4771DAF7E67003BFAFF /* ʒ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ʒ.mp3"; path = "Resource/Audio/Consonants/ʒ.mp3"; sourceTree = "<group>"; };
+		3058F4781DAF7E67003BFAFF /* θ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "θ.mp3"; path = "Resource/Audio/Consonants/θ.mp3"; sourceTree = "<group>"; };
+		3058F4911DAF7E73003BFAFF /* aɪ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "aɪ.mp3"; path = "Resource/Audio/Diphthongs/aɪ.mp3"; sourceTree = "<group>"; };
+		3058F4921DAF7E73003BFAFF /* aʊ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "aʊ.mp3"; path = "Resource/Audio/Diphthongs/aʊ.mp3"; sourceTree = "<group>"; };
+		3058F4931DAF7E73003BFAFF /* eə.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "eə.mp3"; path = "Resource/Audio/Diphthongs/eə.mp3"; sourceTree = "<group>"; };
+		3058F4941DAF7E73003BFAFF /* eɪ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "eɪ.mp3"; path = "Resource/Audio/Diphthongs/eɪ.mp3"; sourceTree = "<group>"; };
+		3058F4951DAF7E73003BFAFF /* əʊ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "əʊ.mp3"; path = "Resource/Audio/Diphthongs/əʊ.mp3"; sourceTree = "<group>"; };
+		3058F4961DAF7E73003BFAFF /* ɪə.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ɪə.mp3"; path = "Resource/Audio/Diphthongs/ɪə.mp3"; sourceTree = "<group>"; };
+		3058F4971DAF7E73003BFAFF /* ɔɪ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ɔɪ.mp3"; path = "Resource/Audio/Diphthongs/ɔɪ.mp3"; sourceTree = "<group>"; };
+		3058F4981DAF7E73003BFAFF /* ʊə.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ʊə.mp3"; path = "Resource/Audio/Diphthongs/ʊə.mp3"; sourceTree = "<group>"; };
+		3058F4A11DAF7E83003BFAFF /* æ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "æ.mp3"; path = "Resource/Audio/Vowels/æ.mp3"; sourceTree = "<group>"; };
+		3058F4A21DAF7E83003BFAFF /* ɑː.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ɑː.mp3"; path = "Resource/Audio/Vowels/ɑː.mp3"; sourceTree = "<group>"; };
+		3058F4A31DAF7E83003BFAFF /* ɒ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ɒ.mp3"; path = "Resource/Audio/Vowels/ɒ.mp3"; sourceTree = "<group>"; };
+		3058F4A41DAF7E83003BFAFF /* e.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = e.mp3; path = Resource/Audio/Vowels/e.mp3; sourceTree = "<group>"; };
+		3058F4A51DAF7E83003BFAFF /* ə.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ə.mp3"; path = "Resource/Audio/Vowels/ə.mp3"; sourceTree = "<group>"; };
+		3058F4A61DAF7E83003BFAFF /* ɜː.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ɜː.mp3"; path = "Resource/Audio/Vowels/ɜː.mp3"; sourceTree = "<group>"; };
+		3058F4A71DAF7E83003BFAFF /* iː.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "iː.mp3"; path = "Resource/Audio/Vowels/iː.mp3"; sourceTree = "<group>"; };
+		3058F4A81DAF7E83003BFAFF /* ɪ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ɪ.mp3"; path = "Resource/Audio/Vowels/ɪ.mp3"; sourceTree = "<group>"; };
+		3058F4A91DAF7E83003BFAFF /* ɔː.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ɔː.mp3"; path = "Resource/Audio/Vowels/ɔː.mp3"; sourceTree = "<group>"; };
+		3058F4AA1DAF7E83003BFAFF /* uː.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "uː.mp3"; path = "Resource/Audio/Vowels/uː.mp3"; sourceTree = "<group>"; };
+		3058F4AB1DAF7E83003BFAFF /* ʊ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ʊ.mp3"; path = "Resource/Audio/Vowels/ʊ.mp3"; sourceTree = "<group>"; };
+		3058F4AC1DAF7E83003BFAFF /* ʌ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ʌ.mp3"; path = "Resource/Audio/Vowels/ʌ.mp3"; sourceTree = "<group>"; };
 		699F3C442818CD437C2C433A /* libPods-Pronunciation.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Pronunciation.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C36E8C4B4783BD2D48D080BD /* Pods-Pronunciation.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Pronunciation.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Pronunciation/Pods-Pronunciation.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -70,6 +158,7 @@
 		303282FB1D928D33004302E6 /* Pronunciation */ = {
 			isa = PBXGroup;
 			children = (
+				3058F45C1DAF7D63003BFAFF /* Resource */,
 				303283181D928E67004302E6 /* Controller */,
 				303283131D928DE1004302E6 /* UI */,
 				303282FF1D928D33004302E6 /* AppDelegate.h */,
@@ -108,6 +197,89 @@
 				3032831F1D929227004302E6 /* ChartViewController.m */,
 			);
 			name = Controller;
+			sourceTree = "<group>";
+		};
+		3058F45C1DAF7D63003BFAFF /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				3058F45D1DAF7DEF003BFAFF /* Audio */,
+			);
+			name = Resource;
+			sourceTree = "<group>";
+		};
+		3058F45D1DAF7DEF003BFAFF /* Audio */ = {
+			isa = PBXGroup;
+			children = (
+				3058F4601DAF7E3C003BFAFF /* Consonants */,
+				3058F45F1DAF7E2F003BFAFF /* Diphthongs */,
+				3058F45E1DAF7E1F003BFAFF /* Vowels */,
+			);
+			name = Audio;
+			sourceTree = "<group>";
+		};
+		3058F45E1DAF7E1F003BFAFF /* Vowels */ = {
+			isa = PBXGroup;
+			children = (
+				3058F4A11DAF7E83003BFAFF /* æ.mp3 */,
+				3058F4A21DAF7E83003BFAFF /* ɑː.mp3 */,
+				3058F4A31DAF7E83003BFAFF /* ɒ.mp3 */,
+				3058F4A41DAF7E83003BFAFF /* e.mp3 */,
+				3058F4A51DAF7E83003BFAFF /* ə.mp3 */,
+				3058F4A61DAF7E83003BFAFF /* ɜː.mp3 */,
+				3058F4A71DAF7E83003BFAFF /* iː.mp3 */,
+				3058F4A81DAF7E83003BFAFF /* ɪ.mp3 */,
+				3058F4A91DAF7E83003BFAFF /* ɔː.mp3 */,
+				3058F4AA1DAF7E83003BFAFF /* uː.mp3 */,
+				3058F4AB1DAF7E83003BFAFF /* ʊ.mp3 */,
+				3058F4AC1DAF7E83003BFAFF /* ʌ.mp3 */,
+			);
+			name = Vowels;
+			sourceTree = "<group>";
+		};
+		3058F45F1DAF7E2F003BFAFF /* Diphthongs */ = {
+			isa = PBXGroup;
+			children = (
+				3058F4911DAF7E73003BFAFF /* aɪ.mp3 */,
+				3058F4921DAF7E73003BFAFF /* aʊ.mp3 */,
+				3058F4931DAF7E73003BFAFF /* eə.mp3 */,
+				3058F4941DAF7E73003BFAFF /* eɪ.mp3 */,
+				3058F4951DAF7E73003BFAFF /* əʊ.mp3 */,
+				3058F4961DAF7E73003BFAFF /* ɪə.mp3 */,
+				3058F4971DAF7E73003BFAFF /* ɔɪ.mp3 */,
+				3058F4981DAF7E73003BFAFF /* ʊə.mp3 */,
+			);
+			name = Diphthongs;
+			sourceTree = "<group>";
+		};
+		3058F4601DAF7E3C003BFAFF /* Consonants */ = {
+			isa = PBXGroup;
+			children = (
+				3058F4611DAF7E67003BFAFF /* b.mp3 */,
+				3058F4621DAF7E67003BFAFF /* d.mp3 */,
+				3058F4631DAF7E67003BFAFF /* ð.mp3 */,
+				3058F4641DAF7E67003BFAFF /* dʒ.mp3 */,
+				3058F4651DAF7E67003BFAFF /* f.mp3 */,
+				3058F4661DAF7E67003BFAFF /* g.mp3 */,
+				3058F4671DAF7E67003BFAFF /* h.mp3 */,
+				3058F4681DAF7E67003BFAFF /* j.mp3 */,
+				3058F4691DAF7E67003BFAFF /* k.mp3 */,
+				3058F46A1DAF7E67003BFAFF /* l.mp3 */,
+				3058F46B1DAF7E67003BFAFF /* m.mp3 */,
+				3058F46C1DAF7E67003BFAFF /* n.mp3 */,
+				3058F46D1DAF7E67003BFAFF /* ŋ.mp3 */,
+				3058F46E1DAF7E67003BFAFF /* p.mp3 */,
+				3058F46F1DAF7E67003BFAFF /* r.mp3 */,
+				3058F4701DAF7E67003BFAFF /* s.mp3 */,
+				3058F4711DAF7E67003BFAFF /* ʃ.mp3 */,
+				3058F4721DAF7E67003BFAFF /* t.mp3 */,
+				3058F4731DAF7E67003BFAFF /* tʃ.mp3 */,
+				3058F4741DAF7E67003BFAFF /* v.mp3 */,
+				3058F4751DAF7E67003BFAFF /* w.mp3 */,
+				3058F4761DAF7E67003BFAFF /* z.mp3 */,
+				3058F4771DAF7E67003BFAFF /* ʒ.mp3 */,
+				3058F4781DAF7E67003BFAFF /* θ.mp3 */,
+			);
+			name = Consonants;
 			sourceTree = "<group>";
 		};
 		97B0BD9E1298E82E78344859 /* Pods */ = {
@@ -189,10 +361,54 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3058F4B01DAF7E83003BFAFF /* e.mp3 in Resources */,
+				3058F47F1DAF7E67003BFAFF /* h.mp3 in Resources */,
+				3058F4841DAF7E67003BFAFF /* n.mp3 in Resources */,
+				3058F4881DAF7E67003BFAFF /* s.mp3 in Resources */,
+				3058F4901DAF7E67003BFAFF /* θ.mp3 in Resources */,
+				3058F4B51DAF7E83003BFAFF /* ɔː.mp3 in Resources */,
+				3058F48F1DAF7E67003BFAFF /* ʒ.mp3 in Resources */,
 				3032830C1D928D33004302E6 /* LaunchScreen.storyboard in Resources */,
+				3058F4871DAF7E67003BFAFF /* r.mp3 in Resources */,
+				3058F4A01DAF7E73003BFAFF /* ʊə.mp3 in Resources */,
+				3058F49B1DAF7E73003BFAFF /* eə.mp3 in Resources */,
+				3058F4AD1DAF7E83003BFAFF /* æ.mp3 in Resources */,
+				3058F47B1DAF7E67003BFAFF /* ð.mp3 in Resources */,
+				3058F47C1DAF7E67003BFAFF /* dʒ.mp3 in Resources */,
+				3058F4991DAF7E73003BFAFF /* aɪ.mp3 in Resources */,
+				3058F4B81DAF7E83003BFAFF /* ʌ.mp3 in Resources */,
+				3058F4AE1DAF7E83003BFAFF /* ɑː.mp3 in Resources */,
+				3058F49E1DAF7E73003BFAFF /* ɪə.mp3 in Resources */,
+				3058F4B21DAF7E83003BFAFF /* ɜː.mp3 in Resources */,
+				3058F48E1DAF7E67003BFAFF /* z.mp3 in Resources */,
+				3058F4851DAF7E67003BFAFF /* ŋ.mp3 in Resources */,
+				3058F4811DAF7E67003BFAFF /* k.mp3 in Resources */,
+				3058F49F1DAF7E73003BFAFF /* ɔɪ.mp3 in Resources */,
+				3058F48D1DAF7E67003BFAFF /* w.mp3 in Resources */,
+				3058F48C1DAF7E67003BFAFF /* v.mp3 in Resources */,
+				3058F49A1DAF7E73003BFAFF /* aʊ.mp3 in Resources */,
+				3058F4B11DAF7E83003BFAFF /* ə.mp3 in Resources */,
+				3058F4891DAF7E67003BFAFF /* ʃ.mp3 in Resources */,
+				3058F47D1DAF7E67003BFAFF /* f.mp3 in Resources */,
+				3058F4B31DAF7E83003BFAFF /* iː.mp3 in Resources */,
+				3058F4B71DAF7E83003BFAFF /* ʊ.mp3 in Resources */,
+				3058F49C1DAF7E73003BFAFF /* eɪ.mp3 in Resources */,
+				3058F48A1DAF7E67003BFAFF /* t.mp3 in Resources */,
+				3058F4B61DAF7E83003BFAFF /* uː.mp3 in Resources */,
+				3058F4791DAF7E67003BFAFF /* b.mp3 in Resources */,
+				3058F4AF1DAF7E83003BFAFF /* ɒ.mp3 in Resources */,
+				3058F4861DAF7E67003BFAFF /* p.mp3 in Resources */,
+				3058F4B41DAF7E83003BFAFF /* ɪ.mp3 in Resources */,
+				3058F48B1DAF7E67003BFAFF /* tʃ.mp3 in Resources */,
 				3032831D1D9291F5004302E6 /* Chart.storyboard in Resources */,
+				3058F47E1DAF7E67003BFAFF /* g.mp3 in Resources */,
+				3058F4831DAF7E67003BFAFF /* m.mp3 in Resources */,
+				3058F47A1DAF7E67003BFAFF /* d.mp3 in Resources */,
+				3058F4801DAF7E67003BFAFF /* j.mp3 in Resources */,
+				3058F4821DAF7E67003BFAFF /* l.mp3 in Resources */,
 				303283091D928D33004302E6 /* Assets.xcassets in Resources */,
 				303283171D928E50004302E6 /* Menu.storyboard in Resources */,
+				3058F49D1DAF7E73003BFAFF /* əʊ.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
